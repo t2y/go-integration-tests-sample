@@ -26,6 +26,8 @@ confirm coverage.html and treemap.svg
 
 ### go build with -cover
 
+read [Code coverage for Go integration tests](https://go.dev/blog/integration-test-coverage), then try it.
+
 ```
 $ make bin/covapi
 $ GOCOVERDIR="$PWD/covdir" ./bin/covapi
