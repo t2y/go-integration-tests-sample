@@ -71,6 +71,6 @@ $ ls -l covdir
 
 confirm coverage.html and treemap.svg
 
-* [example/coverage.html](./example/coverage.html)
+* [example/coverage.html](https://html-preview.github.io/?url=https://github.com/t2y/go-integration-tests-sample/blob/main/example/coverage.html)
 
 ![](./example/treemap.svg)
