@@ -70,3 +70,7 @@ $ ls -l covdir
 ```
 
 confirm coverage.html and treemap.svg
+
+* [example/coverage.html](./example/coverage.html)
+
+![](./example/treemap.svg)
